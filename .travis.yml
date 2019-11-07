@@ -1,7 +1,4 @@
 language: csharp
 
-cache: npm
-
-
 script:
 -echo "Travis Build Done!!"
